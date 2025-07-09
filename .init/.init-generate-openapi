@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt && python generate_openapi.py",
+    "working_directory": "/home/kavia/workspace/code-generation/bookvault-api-112717-112727/booknest_backend"
+}
